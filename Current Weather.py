@@ -38,3 +38,6 @@ get_weather()
 
 # Run the Tkinter main loop
 root.mainloop()
+# Support 
+## current weather conditions 
+
